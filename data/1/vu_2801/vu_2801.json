@@ -45,7 +45,7 @@
   "CVSS_RemediationLevel": "", 
   "Workarounds": "", 
   "ID": "VU#2801", 
-  "CVSS_AvailabilityImpact": "", 
+  "CVSS_AvailabilityImpact": "There are some change in this json object", 
   "CAM_ScoreCurrent": 0, 
   "Overview": "", 
   "CAM_Impact": "0", 
