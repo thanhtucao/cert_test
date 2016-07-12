@@ -34,7 +34,7 @@
   "CVSS_ConfidentialityImpact": "", 
   "CVSS_BaseVector": "", 
   "VulnerabilityCount": 1, 
-  "CVSS_Exploitability": "", 
+  "CVSS_Exploitability": "There are some changed in this file", 
   "ThanksAndCredit": "", 
   "US-CERTTechnicalAlert": "", 
   "CAM_ScoreCurrentWidelyKnownExploited": 40.5, 
